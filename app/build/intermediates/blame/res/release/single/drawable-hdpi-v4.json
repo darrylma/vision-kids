@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\grass_background.jpg",
+        "source": "J:\\Documents\\AndroidApps\\VisionKids\\app\\src\\main\\res\\drawable-hdpi\\grass_background.jpg"
+    },
+    {
+        "merged": "L:\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\camera_icon.jpg",
+        "source": "L:\\VisionKids\\app\\src\\main\\res\\drawable-hdpi\\camera_icon.jpg"
+    },
+    {
+        "merged": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\camera_icon.jpg",
+        "source": "J:\\Documents\\AndroidApps\\VisionKids\\app\\src\\main\\res\\drawable-hdpi\\camera_icon.jpg"
+    },
+    {
+        "merged": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\camera_background.gif",
+        "source": "J:\\Documents\\AndroidApps\\VisionKids\\app\\src\\main\\res\\drawable-hdpi\\camera_background.gif"
+    },
+    {
+        "merged": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\border_style.xml",
+        "source": "J:\\Documents\\AndroidApps\\VisionKids\\app\\src\\main\\res\\drawable-hdpi\\border_style.xml"
+    },
+    {
+        "merged": "L:\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\camera_background.gif",
+        "source": "L:\\VisionKids\\app\\src\\main\\res\\drawable-hdpi\\camera_background.gif"
+    },
+    {
+        "merged": "L:\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\border_style.xml",
+        "source": "L:\\VisionKids\\app\\src\\main\\res\\drawable-hdpi\\border_style.xml"
+    },
+    {
+        "merged": "L:\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\grass_background.jpg",
+        "source": "L:\\VisionKids\\app\\src\\main\\res\\drawable-hdpi\\grass_background.jpg"
+    }
+]

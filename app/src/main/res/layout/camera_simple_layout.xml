@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/camera_background">
+
+    <SurfaceView
+        android:id="@+id/TransparentView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <FrameLayout
+        android:id="@+id/camera_preview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+    </FrameLayout>
+
+    <Button
+        android:id="@+id/bUpload"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/upload_icon"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"/>
+
+    <Button
+        android:id="@+id/bSearch"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/search_icon"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentBottom="true" />
+
+    <Button
+        android:id="@+id/bMute"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/sound_icon_on"/>
+
+    <ImageView
+        android:id="@+id/ivPreview"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/border_style"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"/>
+
+    <TextView
+        android:id="@+id/tvNotification"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textSize="30dp"
+        android:background="@drawable/border_style"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/tvObject1"
+        android:layout_width="110dp"
+        android:layout_height="60dp"
+        android:textSize="24dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="8dp"
+        android:layout_toLeftOf="@+id/tvObject2"
+        android:background="@drawable/border_style"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textAllCaps="true"/>
+
+    <TextView
+        android:id="@+id/tvObject2"
+        android:layout_width="110dp"
+        android:layout_height="60dp"
+        android:textSize="24dp"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="5dp"
+        android:background="@drawable/border_style"
+        android:textStyle="bold"
+        android:textAllCaps="true"/>
+
+    <TextView
+        android:id="@+id/tvObject3"
+        android:layout_width="110dp"
+        android:layout_height="60dp"
+        android:textSize="24dp"
+        android:gravity="center"
+        android:layout_toRightOf="@+id/tvObject2"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="5dp"
+        android:background="@drawable/border_style"
+        android:textStyle="bold"
+        android:textAllCaps="true"/>
+
+    <TextView
+        android:id="@+id/tvInstructions"
+        android:scrollbars="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="10dp"
+        android:gravity="left"
+        android:background="@drawable/border_style"/>
+
+    <Button
+        android:id="@+id/bPlaySound"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/play_icon"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginRight="5dp"/>
+
+
+</RelativeLayout>

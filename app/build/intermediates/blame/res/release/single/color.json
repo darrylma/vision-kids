@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "L:\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "L:\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "L:\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "L:\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "L:\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "L:\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "L:\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "L:\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "L:\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "L:\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "L:\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "L:\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "L:\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "L:\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "L:\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "L:\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "L:\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "L:\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "J:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Sun Aug 27 05:42:11 SGT 2017
+base.0=J\:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=J\:\\Documents\\AndroidApps\\VisionKids\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

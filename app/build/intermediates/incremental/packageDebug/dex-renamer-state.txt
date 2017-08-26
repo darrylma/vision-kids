@@ -1,0 +1,7 @@
+#Thu Dec 22 22:37:28 SGT 2016
+base.0=L\:\\VisionKids\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_952c97d1b85173982499c474f9c08fb67b61d51f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=L\:\\VisionKids\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d3de4dfc0c19b63f4b391e890d1da5697d00bf24\\classes.dex
+base.1=L\:\\VisionKids\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d3de4dfc0c19b63f4b391e890d1da5697d00bf24
+file.0=L\:\\VisionKids\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_952c97d1b85173982499c474f9c08fb67b61d51f\\classes.dex
